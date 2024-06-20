@@ -1,0 +1,48 @@
+{
+	"name": "Lover Theme",
+	"type": "light",
+	"colors": {
+	  "editor.background": "#FFFFFF",
+	  "editor.foreground": "#2C3E50",
+	  "editor.selectionBackground": "#F8D7E1",
+	  "editor.lineHighlightBackground": "#E8E8E8",
+	  "editorCursor.foreground": "#FFB997",
+	  "editorWhitespace.foreground": "#D7C0F9",
+	  "editorIndentGuide.background": "#A8DADC",
+	  "editorIndentGuide.activeBackground": "#A8DADC"
+	},
+	"tokenColors": [
+	  {
+		"scope": "comment",
+		"settings": {
+		  "foreground": "#A8DADC",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"scope": "string",
+		"settings": {
+		  "foreground": "#FFB997"
+		}
+	  },
+	  {
+		"scope": "keyword",
+		"settings": {
+		  "foreground": "#D7C0F9",
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"scope": "variable",
+		"settings": {
+		  "foreground": "#2C3E50"
+		}
+	  },
+	  {
+		"scope": "constant",
+		"settings": {
+		  "foreground": "#F8D7E1"
+		}
+	  }
+	]
+  }

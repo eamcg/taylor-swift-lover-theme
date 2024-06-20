@@ -1,0 +1,33 @@
+{
+  "name": "taylor-swift-lover-theme",
+  "displayName": "Taylor Swift Lover Theme",
+  "description": "Theme inspired by Swift's Lover album",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Taylor Swift Lover",
+        "uiTheme": "vs-light",
+        "path": "./themes/Taylor Swift Lover-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eamcg/taylor-swift-lover-theme"
+  },
+  "keywords": [
+    "lover",
+    "taylor swift",
+    "theme",
+    "light"
+  ],
+  "icon": "images/icon.png"
+}
