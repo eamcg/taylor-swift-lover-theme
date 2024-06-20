@@ -14,7 +14,7 @@
     "themes": [
       {
         "label": "Taylor Swift Lover",
-        "uiTheme": "vs-light",
+        "uiTheme": "vs",
         "path": "./themes/Taylor Swift Lover-color-theme.json"
       }
     ]
